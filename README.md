@@ -8,5 +8,7 @@ Histogram of odometer readings
 
 Scatter plot of odometer vs. price
 
+Select charts using checkboxes
+
 
 Try it live: https://project-sprint5-vraq.onrender.com/
