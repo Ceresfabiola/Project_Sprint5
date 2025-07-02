@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Creating the header
-st.header('Vehicles Dashboard')
+st.header('Car Sales Explorer')
 
 # Reading the data
 car_data = pd.read_csv('vehicles.csv')
