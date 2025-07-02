@@ -6,7 +6,7 @@ import streamlit as st
 st.header('Vehicles Dashboard')
 
 # Reading the data
-car_data = pd.read_csv('../vehicles.csv')
+car_data = pd.read_csv('vehicles.csv')
 
 # Creating the button
 hist_button = st.button('Create Histogram')
