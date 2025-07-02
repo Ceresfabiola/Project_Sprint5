@@ -1,5 +1,6 @@
 # Project_Sprint5
 Project Sprint 5 - Car Sales Explorer
+
 A simple Streamlit web app for exploring a car sales dataset.
 
 Features:
